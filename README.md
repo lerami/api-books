@@ -17,10 +17,10 @@ npm i
 Run the following command to start the server locally
 
 ```
-npm run serve [port]
+npm run serve
 ```
 
-If no port is specified, the server will start by default on port 3000.
+The server will start by default on port 8000.
 
 ## API
 

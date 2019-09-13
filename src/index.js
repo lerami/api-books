@@ -1,7 +1,7 @@
 const express = require('express');
 const bodyParser = require('body-parser');
 
-const PORT = process.argv[2] || 3000;
+const PORT = 8000;
 
 // Import routes
 const books = require('./routes/books');
